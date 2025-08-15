@@ -22,7 +22,7 @@ async function testMethod2() {
   console.log(`🌐 Webhook URL: ${webhookUrl}`);
   console.log("📋 Flujo: Usuario → OpenAI → Tu código → Tu webhook → Tu código → OpenAI → Usuario\n");
 
-  const userQuestion = "¿Cuál es el clima en Bogotá?";
+  const userQuestion = "¿Cuál es el clima en Ciudad de México?";
 
   try {
     console.log(`👤 Usuario: ${userQuestion}`);

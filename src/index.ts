@@ -6,12 +6,6 @@ import {
   Tool,
 } from "@modelcontextprotocol/sdk/types.js";
 import { z } from "zod";
-import OpenAI from "openai";
-
-// Initialize OpenAI client
-const openai = new OpenAI({
-  apiKey: process.env.OPENAI_API_KEY,
-});
 
 // Custom tool schema
 const WeatherToolSchema = z.object({
