@@ -2,6 +2,10 @@
 
 Este proyecto demuestra cómo crear un servidor MCP (Model Context Protocol) personalizado con una herramienta de clima e integrarlo con OpenAI usando Cloudflare Tunnel.
 
+<a href="https://glama.ai/mcp/servers/@Dagudelot/mcp-server-openai-sdk">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@Dagudelot/mcp-server-openai-sdk/badge" alt="Server with OpenAI Integration MCP server" />
+</a>
+
 ## 🚀 Características
 
 - **Servidor MCP personalizado** con herramienta de clima
